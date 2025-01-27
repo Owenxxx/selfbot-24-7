@@ -1,4 +1,4 @@
-- [x] if you have any problem [open poll](https://discord.com/users/1218034475775299688) 
+- [x] if you have any problem [My discord Acc](https://discord.com/users/1218034475775299688) 
 - [ ] **Replit banned selfbots**
 - [ ] you need to have Rdp panel to host or vps if u dont have it check this sites for hosting this project like [nexcord](<https://nexcord.com>) or [waifly](<https://waifly.com>)
 
