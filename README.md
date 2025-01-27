@@ -12,6 +12,5 @@ Dependencies maybe outdated. You should update them yourself!
 
 This is a simple Selfbot script that aims to keep accounts always on the Voice Channel.
 
-Please edit the `./config.json` file first.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1218034475775299688)](https://discord.com/users/1218034475775299688)
